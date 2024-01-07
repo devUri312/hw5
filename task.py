@@ -1,3 +1,3 @@
-from art import tprint
-tprint("PYTHON")
-
+class Heloo:
+    def greet(self):
+        print("Hello!")
